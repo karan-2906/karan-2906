@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK** & React Native
 
-- 👨‍💻 All of my projects are available at [https://portfolio-karan-gandhi.vercel.app/](https://portfolio-karan-gandhi.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://www.karangandhi.tech/)
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
