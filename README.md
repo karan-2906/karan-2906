@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
   <a href="https://karan-gandhi.vercel.app/">
-    <img src="https://img.shields.io/badge/POrtfolio-4aff00?style=for-the-badge&logoColor=white" alt="My Portfolio"/>
+    <img src="https://img.shields.io/badge/POrtfolio-ff8000?style=for-the-badge&logoColor=yellow" alt="My Portfolio"/>
   </a>
 </p>
 
